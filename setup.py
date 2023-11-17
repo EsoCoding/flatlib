@@ -22,7 +22,7 @@ setup(
     },
 
     # Dependencies
-    install_requires=['pyswisseph==2.10.3.2'],
+    install_requires=['pyswisseph==2.10.03.2'],
 
     # Metadata
     description='Python library for Traditional Astrology',
